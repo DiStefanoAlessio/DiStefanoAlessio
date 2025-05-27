@@ -1,4 +1,4 @@
-Hi there, I'm a computer science student currently in high school. 👋
+### Hi there, I'm a computer science student currently in high school. 👋
 
 🌱 I’m currently learning:
 
