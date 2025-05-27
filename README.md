@@ -1,18 +1,18 @@
 ### Hi there, I'm a computer science student currently in high school. 👋
 
-🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 
 - C#
 - JavaScript
 - HTML, Bootstrap
 
-👀 I'm interested in:
+#### 👀 I'm interested in:
 
 - Game Development and Game Design
 - 3D Modeling and Texturing
 - New rendering and optimization techniques
 
-🔭 I’m currently looking forward to:
+#### 🔭 I’m currently looking forward to:
 
 - Developing my own indie game
 - Learning how to make Game Art
