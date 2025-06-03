@@ -1,4 +1,4 @@
-# Student at ITIS E. Majorana | Aspiring Game Developer | Quality over quantity
+# Alessio Di Stefano | Student at ITIS E. Majorana | Aspiring Game Developer | Quality over quantity
 
 ### Hi there, I'm Alessio, a computer science student currently in high school. 👋
 
