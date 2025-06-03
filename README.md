@@ -1,7 +1,6 @@
 # Student at ITIS E. Majorana | Aspiring Game Developer | Quality over quantity
 
 ### Hi there, I'm Alessio, a computer science student currently in high school. 👋
-### I've been interested in learning Game Development ever since I've learned how games were made.
 
 #### 🌱 I’m currently learning:
 
